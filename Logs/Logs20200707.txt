@@ -1,0 +1,16 @@
+2020-07-07 14:53:42.906 +05:30 [INF] Given Execution started
+2020-07-07 14:53:53.006 +05:30 [INF] URL 'https://dev.azure.com/F-DC/Active-Active' entered successfully
+2020-07-07 14:53:58.012 +05:30 [INF] Given method execution completed
+2020-07-07 14:53:58.023 +05:30 [INF] When Execution started : I have entered the username and password
+2020-07-07 14:53:58.548 +05:30 [INF] Username entered
+2020-07-07 14:54:09.229 +05:30 [INF] Password entered
+2020-07-07 14:54:09.229 +05:30 [INF] When method execution completed
+2020-07-07 14:54:09.231 +05:30 [INF] When Execution started : I click on Next
+2020-07-07 14:54:11.180 +05:30 [INF] Next button clicked successfully
+2020-07-07 14:54:21.186 +05:30 [INF] When Execution Ended : I click on Next
+2020-07-07 14:54:21.190 +05:30 [INF] Then Execution Started : I am able to login to Azure
+2020-07-07 14:54:21.190 +05:30 [INF] Checking if Emergency pop up is displayed with Yes button
+2020-07-07 14:54:28.119 +05:30 [INF] Clicked on Yes button on Emergency pop up
+2020-07-07 14:54:28.454 +05:30 [INF] Teardown method called
+2020-07-07 14:54:28.454 +05:30 [INF] Test Passed successfully
+2020-07-07 14:54:34.089 +05:30 [INF] Then Execution Completed : I am able to login to Azure
